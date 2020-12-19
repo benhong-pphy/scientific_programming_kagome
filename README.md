@@ -1,2 +1,2 @@
 ## Energy dispersion of triangular and Kagome lattice based on the tight-binding model
-This repository is used to demonstrate some aspects of scientific programming and calculating the energy dispersion of the Kagome lattice
+This repository is used to demonstrate some aspects of scientific programming through Python. The Python scripts in this repository is used to calculate the energy dispersion of both the triangular and Kagome lattice based on the tight-binding model. The Python can be run through the Spyder IDE in the Anaconda platform.
